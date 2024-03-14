@@ -30,6 +30,10 @@ python manage.py runserver
 7. Go to the local-host address in your browser with port 8000:
 localhost:8000 OR
 http://127.0.0.1:8000/
+8. When done, exit the virtual environment
+```python
+exit
+```
 
 If want to create an admin user:
 ```python
