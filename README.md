@@ -22,7 +22,7 @@ cd littlelemon
 python manage.py makemigrations
 python manage.py migrate
 ```
-NOTE: migrations will only take effect if an item has been modified, yet it is good practice to apply migrations at all times before running the server.
+##### NOTE: migrations will only take effect if an item has been modified, yet it is good practice to apply migrations at all times before running the server.
 6. Run the server
 ```python
 python manage.py runserver
